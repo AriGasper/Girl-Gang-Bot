@@ -1,4 +1,4 @@
-# <span style="color:DeepPink">Girl Gang</span>
+# <span style="color:DeepPink;">Girl Gang</span>
 ## *Небольшое описание* 
 
 
