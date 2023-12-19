@@ -8,6 +8,6 @@
 2. Если Вы не зарегистрированы, нужно пройти регистрацию
 3. Найти в поиске "Girl Gang"
 <image src="https://github.com/AriGasper/Girl-Gang-Bot/blob/master/изображение_2023-12-19_045813435.png">
-4. Написать в чат "/start"  
+4. Написать в чат "/start"<br>
 
 **Или можете просто перейти** [по этой ссылке](https://t.me/Girl_Gang_Bot) :sparkling_heart:
