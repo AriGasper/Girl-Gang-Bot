@@ -18,4 +18,4 @@
 **Или можно просто перейти** [по этой ссылке](https://t.me/Girl_Gang_Bot) :sparkling_heart:
 
 ## *Регистрация*
-<image src="https://github.com/AriGasper/Girl-Gang-Bot/blob/master/1.png">
+<image src="https://github.com/AriGasper/Girl-Gang-Bot/blob/master/11.png">
