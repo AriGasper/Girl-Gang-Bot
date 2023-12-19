@@ -19,3 +19,4 @@
 
 ## *Регистрация*
 <image src="https://github.com/AriGasper/Girl-Gang-Bot/blob/master/11.png">
+<image src="https://github.com/AriGasper/Girl-Gang-Bot/blob/main/2.png">
